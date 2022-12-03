@@ -1,4 +1,4 @@
 - 👋 Hi! I’m Cole Torres
 - 🌱 Majored in Computer Science, Specialized in Data Science and Analaytics, at Ateneo de Manila University
-- 👀 Interested in Data Science, Web3, FinTech, Product Management, and Project Management
+- 👀 Interested in Data Science, Web3, and Project Management
 - 📫 Feel free to reach me via my email: coltranetorres@gmail.com
