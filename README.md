@@ -1,4 +1,4 @@
 - 👋 Hi! I’m Cole
 - 🌱 Majored in Computer Science, Specialized in Data Science and Analytics, at Ateneo de Manila University
-- 👀 Interested in Data Science & Web 3
+- 👀 Interested in Data Science & Web3
 - 📫 Feel free to reach me via my email: coltranetorres@gmail.com
