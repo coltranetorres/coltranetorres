@@ -2,7 +2,7 @@
 
 👨‍💻 Data Scientist with 2+ years of experience in leveraging data to drive business outcomes
 
-🌱 Computer Science + Data Science at Ateneo de Manila University
+🌱 Computer Science & Data Science at Ateneo de Manila University
 
 👀 Expertise includes machine learning, predictive modeling, data visualization, and business analytics
 
