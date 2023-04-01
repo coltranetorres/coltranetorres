@@ -7,3 +7,5 @@
 👀 Expertise includes machine learning, predictive modeling, data visualization, and business analytics
 
 ⚡️ Passionate about solving complex problems and developing data-driven solutions that create value for organizations
+
+🔥 Interested in the intersection of Data Science and Web3
