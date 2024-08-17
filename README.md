@@ -1,9 +1,7 @@
 👋 Hi! I’m Cole
 
-👨‍💻 Data Scientist with 3+ years of experience in leveraging data to drive business outcomes
+👨‍💻 I'm an AI Engineer. I help businesses optimize their operations and drive growth by developing and implementing tailored AI solutions.
 
 🌱 Computer Science & Data Science at Ateneo de Manila University
 
 👀 Expertise includes Generative AI, NLP, and Machine Learning
-
-⚡️ Passionate about solving complex problems through and developing data-driven solutions that create value for organizations
