@@ -1,9 +1,3 @@
 👋 Hi! I’m Cole
 
-👨‍💻 Data & AI professional with 3+ years of experience in leveraging data to drive business outcomes
-
-🪐 Computer Science + Data Science @ Ateneo de Manila University
-
-👀 Expertise includes Generative AI, Machine Learning, and Big Data
-
-⚡️ Passionate about solving complex problems and developing data-driven solutions that create value for organisations
+Currently an AI Engineer at TradeWindow, focusing on building scalable AI architectures. Previously, I was an AI Engineer for IBM, where I developed Generative AI and machine learning solutions for clients across several industries.
