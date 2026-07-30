@@ -6,10 +6,6 @@
 
 ---
 
-### 💼 Professional Experience
-* 🚀 **Current:** AI Engineer at **TradeWindow**
-* 🧠 **Previously:** AI Engineer at **IBM**, developed AI/ML solutions for enterprise clients.
-
 ### 🛠️ Active Side Projects
 
 * 🏀 **AI/ML x NBA** 
