@@ -15,3 +15,4 @@
 ### 📚 Current Readings
 * *The Manager's Path* by Camille Fournier
 * *A Philosophy of Software Design* by John Ousterhout
+* *Why Nations Fail* by Daron Acemoglu, James A. Robinson
