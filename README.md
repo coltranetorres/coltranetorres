@@ -8,7 +8,7 @@
 
 ### 🛠️ Active Side Projects
 
-* 🏀 **AI/ML/Stats x NBA** 
+* ✎ᝰ.📓🗒 ˎˊ˗ **AI Research Mini Sprints** 
     
 * 🏎️ **AI/ML/Stats x F1** 
 
