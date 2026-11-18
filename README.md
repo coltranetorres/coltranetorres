@@ -8,7 +8,7 @@
 
 ### 🛠️ Active Side Projects
 
-* ✎ᝰ.📓🗒 ˎˊ˗ **AI Research Mini Sprints** 
+* 🔎 **AI Research Mini Sprints** 
     
 * 🏎️ **AI/ML/Stats x F1** 
 
